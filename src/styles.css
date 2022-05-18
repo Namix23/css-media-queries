@@ -16,6 +16,13 @@ h3 {
   color: #231d3c;
 }
 
+@media (max-width: 576px) {
+  h4 {
+    text-align: center;
+    color: blue;
+  }
+}
+
 .logo {
   display: block;
   margin: 30px auto;
